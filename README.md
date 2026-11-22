@@ -1,4 +1,4 @@
-# Aplikasi PMB, KRS, Penjadwalan, dan Manajemen Nilai — Tugas Minggu 1–9
+# Aplikasi PMB, KRS, Penjadwalan, dan Manajemen Nilai — Tugas Minggu 9 (lanjutan Minggu 3–8)
 
 Aplikasi akademik berbasis FastAPI, SQLAlchemy 2.0, Alembic, dan SQLite dengan modul PMB, KRS, penjadwalan kelas, observer, transactional outbox, invalidasi KRS, Conflict Resolver, dan ekspor kalender.
 
